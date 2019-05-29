@@ -23,4 +23,5 @@ Operations were performed in Python Jupyter Notebooks to perfect the SQLAlchemy 
   * /summary is a list of stages used to populated the results drop down list
   * /summary/<stage> endpoint is used to create the dynamic results table.
 
+![](images/filename.png)
 
